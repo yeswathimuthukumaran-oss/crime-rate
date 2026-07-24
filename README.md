@@ -1,4 +1,4 @@
-# Crime Rate Reporting System
+# Investigation Reporting Tool
 
 ## About Project
 A web-based application developed to manage and report crime-related information efficiently. The system allows users to register complaints and enables administrators to monitor and manage crime records.
